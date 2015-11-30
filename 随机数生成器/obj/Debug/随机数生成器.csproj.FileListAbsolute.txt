@@ -1,0 +1,8 @@
+F:\c++\project\随机数生成器\随机数生成器\bin\Debug\随机数生成器.exe.config
+F:\c++\project\随机数生成器\随机数生成器\bin\Debug\随机数生成器.exe
+F:\c++\project\随机数生成器\随机数生成器\bin\Debug\随机数生成器.pdb
+F:\c++\project\随机数生成器\随机数生成器\obj\Debug\随机数生成器.Form1.resources
+F:\c++\project\随机数生成器\随机数生成器\obj\Debug\随机数生成器.Properties.Resources.resources
+F:\c++\project\随机数生成器\随机数生成器\obj\Debug\随机数生成器.csproj.GenerateResource.Cache
+F:\c++\project\随机数生成器\随机数生成器\obj\Debug\随机数生成器.exe
+F:\c++\project\随机数生成器\随机数生成器\obj\Debug\随机数生成器.pdb
